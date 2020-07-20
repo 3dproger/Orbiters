@@ -1,9 +1,12 @@
-# Orbiters
 Orbiters (старое название Smash Head) - моя первая законченная игра для ПК и Android с оригинальной механикой, несколькими режимами игры и большим количеством уровней
 
--= YouTube =-
+Ссылки:
 
-[![Video](https://img.youtube.com/vi/LaNBvLMrDAY/0.jpg)](https://www.youtube.com/watch?v=LaNBvLMrDAY)
+- Play Market: https://play.google.com/store/apps/details?id=com.axel_kgame.smashhead
+- Windows, Linux: https://github.com/3dproger/Orbiters/releases
+- macOS: :worried:
+- iOS: :sob:
+- Видео: https://www.youtube.com/watch?v=LaNBvLMrDAY
 
 -= Особенности =-
 
