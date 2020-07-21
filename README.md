@@ -5,7 +5,7 @@ Orbiters (старое название Smash Head) - моя первая зак
 -= Ссылки =-
 
 - Play Market: https://play.google.com/store/apps/details?id=com.axel_kgame.smashhead
-- Windows, Linux: https://github.com/3dproger/Orbiters/releases
+- Windows, Linux: Top Secret
 - macOS: :worried:
 - iOS: :sob:
 - Видео: https://www.youtube.com/watch?v=LaNBvLMrDAY
