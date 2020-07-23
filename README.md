@@ -1,9 +1,14 @@
-Orbiters (старое название Smash Head) - моя первая законченная One-Tap игра для Android и ПК с оригинальной механикой, несколькими режимами игры и большим количеством уровней. 
+Orbiters (старое название Smash Head) - моя первая законченная One-Tap игра для Android и ПК с оригинальной механикой, несколькими режимами игры и большим количеством уровней.
+
+Дата выхода: 20 июля 2017
+
+Жанр: Экшен
+
 
 -= Ссылки =-
 
 - Play Market: https://play.google.com/store/apps/details?id=com.axel_kgame.smashhead
-- Windows, Linux: Top Secret
+- Windows, Linux: https://github.com/3dproger/Orbiters/releases
 - macOS: :worried:
 - iOS: :sob:
 - Видео: https://www.youtube.com/watch?v=LaNBvLMrDAY
