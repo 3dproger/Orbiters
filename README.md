@@ -4,6 +4,7 @@ Orbiters (старое название Smash Head) - моя первая зак
 
 Жанр: Экшен
 
+Средства разработки: Java, LibGDX, Android Studio, appimagetool, Inno Setup, packr.jar,
 
 -= Ссылки =-
 
