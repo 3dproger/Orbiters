@@ -20,7 +20,7 @@ Pass levels overcoming obstacles jumping between orbits by pressing just one but
 - Play Market: https://play.google.com/store/apps/details?id=com.axel_kgame.smashhead
 - Video: https://www.youtube.com/watch?v=LaNBvLMrDAY
 
--= Screenshots =-
+## Screenshots
 
 ![image](screenshot5.png?raw=true)
 ![image](screenshot1.png?raw=true)
