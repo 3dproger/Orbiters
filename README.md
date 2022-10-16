@@ -1,37 +1,29 @@
-Orbiters (старое название Smash Head) - моя первая законченная One-Tap игра для Android и ПК с оригинальной механикой, несколькими режимами игры и большим количеством уровней.
+# Orbiters
+## Description
 
-Дата выхода: 20 июля 2017
+Pass levels overcoming obstacles jumping between orbits by pressing just one button (tap on the touch screen)
+## Features
+- Original and dynamic gameplay
+- Extremely simple and clear control with one button: SPACE on keyboard or tap on the touch screen
+- Various game mechanics
+- Smartphone supports different screen orientations
+- Multiple languages are supported. Selected automatically depending on the language of the operating system
 
-Жанр: Экшен
+## Game Modes
+- Long way - exciting and long levels full of dangers and adventures
+- Small room - simple and small levels for a more relaxed playstyle
+- Arcade - a game mode with several difficulty levels in which you need to score as many points as possible in an endless journey
 
-Средства разработки: Java, LibGDX, Android Studio, appimagetool, Inno Setup, packr.jar,
+## Links
 
--= Ссылки =-
-
+- Download from itch.io: https://axel-k.itch.io/orbiters
 - Play Market: https://play.google.com/store/apps/details?id=com.axel_kgame.smashhead
-- Windows, Linux: https://github.com/3dproger/Orbiters/releases
-- macOS: :worried:
-- iOS: :sob:
-- Видео: https://www.youtube.com/watch?v=LaNBvLMrDAY
+- Video: https://www.youtube.com/watch?v=LaNBvLMrDAY
 
--= Скриншоты =-
+-= Screenshots =-
 
 ![image](screenshot5.png?raw=true)
 ![image](screenshot1.png?raw=true)
 ![image](screenshot2.png?raw=true)
 ![image](screenshot3.png?raw=true)
 ![image](screenshot4.png?raw=true)
-
--= Особенности =-
-
-- Необычный стиль игры, затягивающий и динамичный геймплей
-- Крайне простое и понятное управление
-- Приятная графика
-- Большое количество уровней
-- Три режима игры
-
--= Режимы игры =-
-
-- Долгий путь - захватывающие и длинные уровни, полные опасностей и приключений
-- Маленькая комната - простые и небольшие уровни для более спокойного стиля игры
-- Аркада - режим игры с несколькими уровнями сложности, в котором необходимо набрать как можно больше очков в бесконечном путешествии
